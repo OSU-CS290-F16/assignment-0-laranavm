@@ -1,9 +1,9 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `NAME`
+Name: `Manuel Lara-Navarro`
 
-ONID ID: `ONID_ID`
+ONID ID: `932-705-914`
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
