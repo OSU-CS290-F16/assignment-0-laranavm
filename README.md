@@ -5,7 +5,7 @@ Name: `Manuel Lara-Navarro`
 
 ONID ID: `932-705-914`
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: `http://people.oregonstate.edu/~laranavm/`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
