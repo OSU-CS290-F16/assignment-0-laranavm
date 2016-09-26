@@ -3,7 +3,7 @@
 
 Name: `Manuel Lara-Navarro`
 
-ONID ID: `932-705-914`
+ONID ID: `laranavm`
 
 Link to my CS 290 page: `http://people.oregonstate.edu/~laranavm/`
 
